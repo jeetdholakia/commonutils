@@ -8,7 +8,7 @@
 
 import Foundation
 
-class TimestampUtils: NSObject {
+open class TimestampUtils: NSObject {
     
     class func convertStringDateFromFormat(_ inputFormat:String, toFormat outputFormat:String, fromString dateString:String)->String{
         

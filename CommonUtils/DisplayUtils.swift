@@ -8,7 +8,7 @@
 
 import Foundation
 
-class DisplayUtils: NSObject {
+open class DisplayUtils: NSObject {
     
     static func getScreenWidth() -> CGFloat {
         return UIScreen.main.bounds.width

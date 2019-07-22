@@ -8,7 +8,7 @@
 
 import Foundation
 
-class ShapeUtils: NSObject {
+open class ShapeUtils: NSObject {
     
     private static let darkBlueColor = UIColor(red: 24.0/255.0, green: 0.0/255.0, blue: 255.0/255.0, alpha: 1.0)
     private static let purpleColor = UIColor(red: 24.0/255.0, green: 0.0/255.0, blue: 255.0/255.0, alpha: 1.0)

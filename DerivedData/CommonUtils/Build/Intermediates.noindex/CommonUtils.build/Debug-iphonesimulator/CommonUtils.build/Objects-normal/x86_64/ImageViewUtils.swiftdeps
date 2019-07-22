@@ -1,0 +1,346 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ImageViewUtils"
+provides-nominal:
+- "11CommonUtils09ImageViewB0C"
+provides-member:
+- ["11CommonUtils09ImageViewB0C", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "*"
+- !private "/"
+- !private ">"
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- !private "CGRect"
+- "CGSize"
+- !private "Data"
+- !private "FloatLiteralType"
+- "ImageViewUtils"
+- !private "IntegerLiteralType"
+- "NSObject"
+- "String"
+- !private "UIGraphicsBeginImageContextWithOptions"
+- !private "UIGraphicsEndImageContext"
+- !private "UIGraphicsGetImageFromCurrentImageContext"
+- "UIImage"
+depends-member:
+- !private ["So27NSDataBase64DecodingOptionsV", "ignoreUnknownCharacters"]
+- !private ["So27NSDataBase64EncodingOptionsV", "lineLength64Characters"]
+- !private ["SK", "Base64DecodingOptions"]
+- !private ["SK", "Base64EncodingOptions"]
+- !private ["SK", "base64EncodedString"]
+- !private ["SK", "init"]
+- !private ["So6CGRectV", "init"]
+- !private ["So6CGSizeV", "height"]
+- !private ["So6CGSizeV", "init"]
+- !private ["So6CGSizeV", "width"]
+- !private ["s7CVarArgP", "CGRect"]
+- !private ["s7CVarArgP", "CGSize"]
+- !private ["s7CVarArgP", "Data"]
+- !private ["s7CVarArgP", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["s7CVarArgP", "UIGraphicsEndImageContext"]
+- !private ["s7CVarArgP", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["s7CVarArgP", "UIImage"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "draw"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "pngData"]
+- !private ["s7CVarArgP", "size"]
+- !private ["Sl", "Base64DecodingOptions"]
+- !private ["Sl", "Base64EncodingOptions"]
+- !private ["Sl", "base64EncodedString"]
+- !private ["Sl", "init"]
+- !private ["10Foundation15ContiguousBytesP", "Base64DecodingOptions"]
+- !private ["10Foundation15ContiguousBytesP", "Base64EncodingOptions"]
+- !private ["10Foundation15ContiguousBytesP", "base64EncodedString"]
+- !private ["10Foundation15ContiguousBytesP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "Base64DecodingOptions"]
+- !private ["s28CustomDebugStringConvertibleP", "Base64EncodingOptions"]
+- !private ["s28CustomDebugStringConvertibleP", "CGRect"]
+- !private ["s28CustomDebugStringConvertibleP", "CGSize"]
+- !private ["s28CustomDebugStringConvertibleP", "Data"]
+- !private ["s28CustomDebugStringConvertibleP", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["s28CustomDebugStringConvertibleP", "UIGraphicsEndImageContext"]
+- !private ["s28CustomDebugStringConvertibleP", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["s28CustomDebugStringConvertibleP", "UIImage"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "base64EncodedString"]
+- !private ["s28CustomDebugStringConvertibleP", "draw"]
+- !private ["s28CustomDebugStringConvertibleP", "height"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "pngData"]
+- !private ["s28CustomDebugStringConvertibleP", "size"]
+- !private ["s28CustomDebugStringConvertibleP", "width"]
+- !private ["s17CustomReflectableP", "Base64DecodingOptions"]
+- !private ["s17CustomReflectableP", "Base64EncodingOptions"]
+- !private ["s17CustomReflectableP", "base64EncodedString"]
+- !private ["s17CustomReflectableP", "height"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "width"]
+- !private ["s23CustomStringConvertibleP", "Base64DecodingOptions"]
+- !private ["s23CustomStringConvertibleP", "Base64EncodingOptions"]
+- !private ["s23CustomStringConvertibleP", "CGRect"]
+- !private ["s23CustomStringConvertibleP", "CGSize"]
+- !private ["s23CustomStringConvertibleP", "Data"]
+- !private ["s23CustomStringConvertibleP", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["s23CustomStringConvertibleP", "UIGraphicsEndImageContext"]
+- !private ["s23CustomStringConvertibleP", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["s23CustomStringConvertibleP", "UIImage"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "base64EncodedString"]
+- !private ["s23CustomStringConvertibleP", "draw"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "pngData"]
+- !private ["s23CustomStringConvertibleP", "size"]
+- !private ["10Foundation4DataV", "Base64DecodingOptions"]
+- !private ["10Foundation4DataV", "Base64EncodingOptions"]
+- !private ["10Foundation4DataV", "base64EncodedString"]
+- !private ["10Foundation4DataV", "init"]
+- !private ["10Foundation12DataProtocolP", "Base64DecodingOptions"]
+- !private ["10Foundation12DataProtocolP", "Base64EncodingOptions"]
+- !private ["10Foundation12DataProtocolP", "base64EncodedString"]
+- !private ["10Foundation12DataProtocolP", "init"]
+- !private ["Se", "Base64DecodingOptions"]
+- !private ["Se", "Base64EncodingOptions"]
+- !private ["Se", "base64EncodedString"]
+- !private ["Se", "height"]
+- !private ["Se", "init"]
+- !private ["Se", "width"]
+- !private ["SE", "Base64DecodingOptions"]
+- !private ["SE", "Base64EncodingOptions"]
+- !private ["SE", "base64EncodedString"]
+- !private ["SE", "height"]
+- !private ["SE", "init"]
+- !private ["SE", "width"]
+- !private ["SQ", "Base64DecodingOptions"]
+- !private ["SQ", "Base64EncodingOptions"]
+- !private ["SQ", "CGRect"]
+- !private ["SQ", "CGSize"]
+- !private ["SQ", "Data"]
+- !private ["SQ", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["SQ", "UIGraphicsEndImageContext"]
+- !private ["SQ", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["SQ", "UIImage"]
+- ["SQ", ""]
+- !private ["SQ", "base64EncodedString"]
+- !private ["SQ", "draw"]
+- !private ["SQ", "height"]
+- !private ["SQ", "ignoreUnknownCharacters"]
+- !private ["SQ", "init"]
+- !private ["SQ", "lineLength64Characters"]
+- !private ["SQ", "pngData"]
+- !private ["SQ", "size"]
+- !private ["SQ", "width"]
+- !private ["s25ExpressibleByArrayLiteralP", "ignoreUnknownCharacters"]
+- !private ["s25ExpressibleByArrayLiteralP", "lineLength64Characters"]
+- !private ["SH", "Base64DecodingOptions"]
+- !private ["SH", "Base64EncodingOptions"]
+- !private ["SH", "CGRect"]
+- !private ["SH", "CGSize"]
+- !private ["SH", "Data"]
+- !private ["SH", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["SH", "UIGraphicsEndImageContext"]
+- !private ["SH", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["SH", "UIImage"]
+- ["SH", ""]
+- !private ["SH", "base64EncodedString"]
+- !private ["SH", "draw"]
+- !private ["SH", "init"]
+- !private ["SH", "pngData"]
+- !private ["SH", "size"]
+- !private ["11CommonUtils09ImageViewB0C", "CGRect"]
+- ["11CommonUtils09ImageViewB0C", "CGSize"]
+- !private ["11CommonUtils09ImageViewB0C", "Data"]
+- ["11CommonUtils09ImageViewB0C", "String"]
+- !private ["11CommonUtils09ImageViewB0C", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["11CommonUtils09ImageViewB0C", "UIGraphicsEndImageContext"]
+- !private ["11CommonUtils09ImageViewB0C", "UIGraphicsGetImageFromCurrentImageContext"]
+- ["11CommonUtils09ImageViewB0C", "UIImage"]
+- ["11CommonUtils09ImageViewB0C", "convertBase64ToImage"]
+- ["11CommonUtils09ImageViewB0C", "convertImageToBase64"]
+- ["11CommonUtils09ImageViewB0C", "deinit"]
+- ["11CommonUtils09ImageViewB0C", "init"]
+- ["11CommonUtils09ImageViewB0C", "resizeImage"]
+- !private ["SM", "Base64DecodingOptions"]
+- !private ["SM", "Base64EncodingOptions"]
+- !private ["SM", "base64EncodedString"]
+- !private ["SM", "init"]
+- !private ["10Foundation19MutableDataProtocolP", "Base64DecodingOptions"]
+- !private ["10Foundation19MutableDataProtocolP", "Base64EncodingOptions"]
+- !private ["10Foundation19MutableDataProtocolP", "base64EncodedString"]
+- !private ["10Foundation19MutableDataProtocolP", "init"]
+- !private ["So8NSCodingP", "draw"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "pngData"]
+- !private ["So8NSCodingP", "size"]
+- !private ["So21NSItemProviderReadingP", "draw"]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderReadingP", "pngData"]
+- !private ["So21NSItemProviderReadingP", "size"]
+- !private ["So21NSItemProviderWritingP", "draw"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So21NSItemProviderWritingP", "pngData"]
+- !private ["So21NSItemProviderWritingP", "size"]
+- !private ["So8NSObjectC", "CGRect"]
+- ["So8NSObjectC", "CGSize"]
+- !private ["So8NSObjectC", "Data"]
+- ["So8NSObjectC", "String"]
+- !private ["So8NSObjectC", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["So8NSObjectC", "UIGraphicsEndImageContext"]
+- !private ["So8NSObjectC", "UIGraphicsGetImageFromCurrentImageContext"]
+- ["So8NSObjectC", "UIImage"]
+- ["So8NSObjectC", ""]
+- ["So8NSObjectC", "convertBase64ToImage"]
+- ["So8NSObjectC", "convertImageToBase64"]
+- !private ["So8NSObjectC", "draw"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "pngData"]
+- ["So8NSObjectC", "resizeImage"]
+- !private ["So8NSObjectC", "size"]
+- !private ["So8NSObjectP", "CGRect"]
+- !private ["So8NSObjectP", "CGSize"]
+- !private ["So8NSObjectP", "Data"]
+- !private ["So8NSObjectP", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["So8NSObjectP", "UIGraphicsEndImageContext"]
+- !private ["So8NSObjectP", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["So8NSObjectP", "UIImage"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "draw"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "pngData"]
+- !private ["So8NSObjectP", "size"]
+- !private ["So14NSSecureCodingP", "draw"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So14NSSecureCodingP", "pngData"]
+- !private ["So14NSSecureCodingP", "size"]
+- !private ["s9OptionSetP", "ignoreUnknownCharacters"]
+- !private ["s9OptionSetP", "lineLength64Characters"]
+- !private ["Sk", "Base64DecodingOptions"]
+- !private ["Sk", "Base64EncodingOptions"]
+- !private ["Sk", "base64EncodedString"]
+- !private ["Sk", "init"]
+- !private ["Sm", "Base64DecodingOptions"]
+- !private ["Sm", "Base64EncodingOptions"]
+- !private ["Sm", "base64EncodedString"]
+- !private ["Sm", "init"]
+- !private ["SY", "ignoreUnknownCharacters"]
+- !private ["SY", "lineLength64Characters"]
+- !private ["10Foundation20ReferenceConvertibleP", "Base64DecodingOptions"]
+- !private ["10Foundation20ReferenceConvertibleP", "Base64EncodingOptions"]
+- !private ["10Foundation20ReferenceConvertibleP", "base64EncodedString"]
+- !private ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["ST", "Base64DecodingOptions"]
+- !private ["ST", "Base64EncodingOptions"]
+- !private ["ST", "base64EncodedString"]
+- !private ["ST", "init"]
+- !private ["s10SetAlgebraP", "ignoreUnknownCharacters"]
+- !private ["s10SetAlgebraP", "lineLength64Characters"]
+- !private ["So29UIAccessibilityIdentificationP", "draw"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "pngData"]
+- !private ["So29UIAccessibilityIdentificationP", "size"]
+- !private ["So7UIImageC", "draw"]
+- !private ["So7UIImageC", "init"]
+- !private ["So7UIImageC", "pngData"]
+- !private ["So7UIImageC", "size"]
+- !private ["So39UIItemProviderPresentationSizeProvidingP", "draw"]
+- !private ["So39UIItemProviderPresentationSizeProvidingP", "init"]
+- !private ["So39UIItemProviderPresentationSizeProvidingP", "pngData"]
+- !private ["So39UIItemProviderPresentationSizeProvidingP", "size"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "height"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "width"]
+- !private ["s26_ExpressibleByImageLiteralP", "draw"]
+- !private ["s26_ExpressibleByImageLiteralP", "init"]
+- !private ["s26_ExpressibleByImageLiteralP", "pngData"]
+- !private ["s26_ExpressibleByImageLiteralP", "size"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CGRect"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CGSize"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Data"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIGraphicsEndImageContext"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIImage"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "draw"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "pngData"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "size"]
+- !private ["s21_ObjectiveCBridgeableP", "Base64DecodingOptions"]
+- !private ["s21_ObjectiveCBridgeableP", "Base64EncodingOptions"]
+- !private ["s21_ObjectiveCBridgeableP", "base64EncodedString"]
+- !private ["s21_ObjectiveCBridgeableP", "height"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "width"]
+depends-nominal:
+- !private "So27NSDataBase64DecodingOptionsV"
+- !private "So27NSDataBase64EncodingOptionsV"
+- !private "SK"
+- !private "So6CGRectV"
+- !private "So6CGSizeV"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "10Foundation15ContiguousBytesP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation4DataV"
+- !private "10Foundation12DataProtocolP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- "SH"
+- "11CommonUtils09ImageViewB0C"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- !private "So8NSCodingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "s9OptionSetP"
+- !private "Sk"
+- !private "Sm"
+- !private "SY"
+- !private "10Foundation20ReferenceConvertibleP"
+- !private "ST"
+- !private "s10SetAlgebraP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So7UIImageC"
+- !private "So39UIItemProviderPresentationSizeProvidingP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s26_ExpressibleByImageLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/jeetdholakia/Documents/Libraries/CommonUtils/CommonUtils/CommonUtils.h"
+- "/Users/jeetdholakia/Documents/Libraries/CommonUtils/DerivedData/CommonUtils/Build/Intermediates.noindex/CommonUtils.build/Debug-iphonesimulator/CommonUtils.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "9479cb260120f795fcc7b551b62b0e1f"

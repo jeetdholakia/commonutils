@@ -8,7 +8,7 @@
 
 import Foundation
 
-class DocumentUtils: NSObject {
+open class DocumentUtils: NSObject {
     class func getDocumentDirectoryPath() -> String {
         let arrPaths : NSArray = NSSearchPathForDirectoriesInDomains(.documentDirectory, .userDomainMask, true) as NSArray
         return arrPaths[0] as! String

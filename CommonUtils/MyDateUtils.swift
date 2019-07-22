@@ -8,7 +8,7 @@
 
 import Foundation
 
-class MyDateUtils: NSObject {
+open class MyDateUtils: NSObject {
     static func getBirthDateFormatFromYYYYMMDD(date: String) throws -> String {
         let dateFormatter = DateFormatter()
         dateFormatter.dateFormat = "yyyy-MM-dd"

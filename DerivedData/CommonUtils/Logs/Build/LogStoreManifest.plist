@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>05D398FC-23EF-492F-867E-DBFD3C3BE33D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>05D398FC-23EF-492F-867E-DBFD3C3BE33D.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CommonUtils project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CommonUtils</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CommonUtils</string>
+			<key>timeStartedRecording</key>
+			<real>585481305.38737595</real>
+			<key>timeStoppedRecording</key>
+			<real>585481305.42593098</real>
+			<key>title</key>
+			<string>Build CommonUtils</string>
+			<key>uniqueIdentifier</key>
+			<string>05D398FC-23EF-492F-867E-DBFD3C3BE33D</string>
+		</dict>
+		<key>3EEE53E0-79EB-4D71-BF19-211AC0749C52</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3EEE53E0-79EB-4D71-BF19-211AC0749C52.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CommonUtils project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CommonUtils</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CommonUtils</string>
+			<key>timeStartedRecording</key>
+			<real>585482572.09359598</real>
+			<key>timeStoppedRecording</key>
+			<real>585482581.40015602</real>
+			<key>title</key>
+			<string>Build CommonUtils</string>
+			<key>uniqueIdentifier</key>
+			<string>3EEE53E0-79EB-4D71-BF19-211AC0749C52</string>
+		</dict>
+		<key>8419DE17-52B7-48CC-AF97-B034F50D11ED</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8419DE17-52B7-48CC-AF97-B034F50D11ED.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CommonUtils project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CommonUtils</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CommonUtils</string>
+			<key>timeStartedRecording</key>
+			<real>585473575.86065602</real>
+			<key>timeStoppedRecording</key>
+			<real>585473577.99636698</real>
+			<key>title</key>
+			<string>Build CommonUtils</string>
+			<key>uniqueIdentifier</key>
+			<string>8419DE17-52B7-48CC-AF97-B034F50D11ED</string>
+		</dict>
+		<key>96CA7F35-8AC7-4611-86AA-46286B1AA930</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>96CA7F35-8AC7-4611-86AA-46286B1AA930.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CommonUtils project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CommonUtils</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean CommonUtils</string>
+			<key>timeStartedRecording</key>
+			<real>585481311.20903695</real>
+			<key>timeStoppedRecording</key>
+			<real>585481311.48028302</real>
+			<key>title</key>
+			<string>Clean CommonUtils</string>
+			<key>uniqueIdentifier</key>
+			<string>96CA7F35-8AC7-4611-86AA-46286B1AA930</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

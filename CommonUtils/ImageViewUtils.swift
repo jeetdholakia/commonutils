@@ -8,7 +8,7 @@
 
 import Foundation
 
-class ImageViewUtils: NSObject {
+open class ImageViewUtils: NSObject {
     
    static func resizeImage(image: UIImage, targetSize: CGSize) -> UIImage {
         let size = image.size

@@ -8,7 +8,7 @@
 
 import Foundation
 
-class NumberUtils: NSObject {
+open class NumberUtils: NSObject {
     //MARK:- Number formatter function
     static func getCommaFormattedNumber(number: String) -> String {
         guard let priceInt = Int(number) else { return "0" }
