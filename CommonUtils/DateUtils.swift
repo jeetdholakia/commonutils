@@ -37,7 +37,7 @@ class DateUtils: NSObject {
         // again convert your date to string
         let fullDateString = formatter.string(from: yourDate!)
         let endIndex = fullDateString.index(fullDateString.endIndex, offsetBy: -6)
-        let truncated = fullDateString.substring(to: endIndex)
+        let truncated = String(fullDateString[..<endIndex])
         return truncated
     }
     

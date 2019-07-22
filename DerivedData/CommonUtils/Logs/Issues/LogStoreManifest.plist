@@ -32,7 +32,7 @@
 			<key>uniqueIdentifier</key>
 			<string>3A987A26-AAC6-4A18-8F99-60C03349C9C6</string>
 		</dict>
-		<key>4926983C-C839-4460-97A4-77C46A26ADDE</key>
+		<key>8E3E14E7-C191-40AB-AF1E-3F6677F70FDB</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -41,22 +41,22 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.framework</string>
 			<key>fileName</key>
-			<string>4926983C-C839-4460-97A4-77C46A26ADDE.xcactivitylog</string>
+			<string>8E3E14E7-C191-40AB-AF1E-3F6677F70FDB.xcactivitylog</string>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>W</string>
+				<string>S</string>
 			</dict>
 			<key>signature</key>
 			<string>CommonUtils-bfopjuvjgnnndeayurfiodbgmfbd</string>
 			<key>timeStartedRecording</key>
-			<real>585471103.25491703</real>
+			<real>585473575.89312804</real>
 			<key>timeStoppedRecording</key>
-			<real>585471103.32100594</real>
+			<real>585473577.98716903</real>
 			<key>title</key>
 			<string>Build target CommonUtils</string>
 			<key>uniqueIdentifier</key>
-			<string>4926983C-C839-4460-97A4-77C46A26ADDE</string>
+			<string>8E3E14E7-C191-40AB-AF1E-3F6677F70FDB</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>
