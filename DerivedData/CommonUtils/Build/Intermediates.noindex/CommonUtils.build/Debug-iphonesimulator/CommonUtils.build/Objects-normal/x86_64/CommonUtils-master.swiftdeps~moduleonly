@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "c6f041db99a9df994fed6b4406bacd89"
+build_time: [1563774821, 880245000]
+inputs:
+  "/Users/jeetdholakia/Documents/Libraries/CommonUtils/CommonUtils/DocumentUtils.swift": [1562303193, 819660101]
+  "/Users/jeetdholakia/Documents/Libraries/CommonUtils/CommonUtils/MyDateUtils.swift": [1563774479, 145739857]
+  "/Users/jeetdholakia/Documents/Libraries/CommonUtils/CommonUtils/StringUtils.swift": [1561631176, 760162595]
+  "/Users/jeetdholakia/Documents/Libraries/CommonUtils/CommonUtils/NumberUtils.swift": [1562303193, 820346796]
+  "/Users/jeetdholakia/Documents/Libraries/CommonUtils/CommonUtils/DateUtils.swift": [1563774479, 158331224]
+  "/Users/jeetdholakia/Documents/Libraries/CommonUtils/CommonUtils/TimestampUtils.swift": [1562303193, 823216817]
+  "/Users/jeetdholakia/Documents/Libraries/CommonUtils/CommonUtils/ShapeUtils.swift": [1563774427, 334236796]
+  "/Users/jeetdholakia/Documents/Libraries/CommonUtils/CommonUtils/ImageViewUtils.swift": [1562303193, 820118957]
+  "/Users/jeetdholakia/Documents/Libraries/CommonUtils/CommonUtils/DisplayUtils.swift": [1562303193, 819252367]
