@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "CommonUtils"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "A set of iOS utilities used in apps made by the Finablr Team "
 
   # This description is used to generate tags and improve search results.
